@@ -1,7 +1,6 @@
 # Deep Learning Final Completion Spring 2024
-### Group 11
 ### Author: Yibin Wang, Jiaxi Xie, Mrunal Sarvaiya
-
+### Group 11
 
 ## Setup Instructions
 
